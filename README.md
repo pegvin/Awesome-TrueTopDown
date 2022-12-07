@@ -41,7 +41,21 @@ A curated list of awesome "true" top down games
 <details>
 <summary>Over 9000 Zombies - https://store.steampowered.com/app/273500/</summary>
 
-[Over-9000-Zombies.webm](https://user-images.githubusercontent.com/75035219/206203727-00a8c76f-e12c-497c-8afe-8fca136aab75.webm)
+[Preview Video](https://user-images.githubusercontent.com/75035219/206203727-00a8c76f-e12c-497c-8afe-8fca136aab75.webm)
+
+</details>
+
+<details>
+<summary>Close Combat Series (Except Some Games) - https://store.steampowered.com/bundle/14953/</summary>
+
+[Preview Video](https://user-images.githubusercontent.com/75035219/206212019-5ad24896-43e2-4dd4-8037-e7e459177a55.webm)
+
+</details>
+
+<details>
+<summary>Raiden Series - https://en.wikipedia.org/wiki/Raiden_(series)</summary>
+
+[Raiden 2](https://user-images.githubusercontent.com/75035219/206222719-76a6d33a-bea3-4e71-9329-8d1e7be29cd3.mp4)
 
 </details>
 
