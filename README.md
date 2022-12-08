@@ -6,11 +6,11 @@ A curated list of awesome "true" top down games
 <details>
 <summary>SURV - https://store.steampowered.com/app/670620/</summary>
 
-![](https://cdn.akamai.steamstatic.com/steam/apps/670620/ss_097b497816fa80cc4c435ebea7a27884b6425b3e.jpg)
-![](https://cdn.akamai.steamstatic.com/steam/apps/670620/ss_6917cbe34875e6a61779af5c042a482a042aeb5b.jpg)
-![](https://cdn.akamai.steamstatic.com/steam/apps/670620/ss_2bfa7252d56d50fd3f1d166d71fe039291db68a8.jpg)
-![](https://cdn.akamai.steamstatic.com/steam/apps/670620/ss_3226e8cc813f7c96c03573a50780f2f234b8d853.jpg)
-![](https://cdn.akamai.steamstatic.com/steam/apps/670620/ss_6bfa6e4d7894a0c5e5dbad395df078d279b2a84a.jpg)
+![](./media/SURV/ss_1.jpg)
+![](./media/SURV/ss_2.jpg)
+![](./media/SURV/ss_3.jpg)
+![](./media/SURV/ss_4.jpg)
+![](./media/SURV/ss_5.jpg)
 
 </details>
 
