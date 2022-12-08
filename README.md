@@ -67,9 +67,16 @@ https://user-images.githubusercontent.com/75035219/206387966-bc31329a-49b4-401a-
 </details>
 
 <details>
-<summary>1941: Counter Attack - https://en.wikipedia.org/wiki/1941:_Counter_Attack</summary>
+<summary>1941: Counter Attack (1990) - https://en.wikipedia.org/wiki/1941:_Counter_Attack</summary>
 
 https://user-images.githubusercontent.com/75035219/206388497-51319272-c13c-47d5-84d7-281bfa7026d3.mp4
+
+</details>
+
+<details>
+<summary>Galaga (1981) - https://en.wikipedia.org/wiki/Galaga</summary>
+
+https://user-images.githubusercontent.com/75035219/206390067-c2410a1e-d19c-423e-a50f-6b6c6b5f460e.mp4
 
 </details>
 
