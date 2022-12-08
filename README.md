@@ -17,33 +17,33 @@ A curated list of awesome "true" top down games
 <details>
 <summary>Noct - https://store.steampowered.com/app/330570/</summary>
 
-![](https://cdn.akamai.steamstatic.com/steam/apps/330570/ss_368e4dc3ccb4fbec7bd6becf645ebd971750bbda.jpg)
-![](https://cdn.akamai.steamstatic.com/steam/apps/330570/ss_810f0e2235780d2833f26e8bb0b524ed132cc6fd.jpg)
-![](https://cdn.akamai.steamstatic.com/steam/apps/330570/ss_feaeed14576352d1b14c833d4d709b6fbba4e752.jpg)
-![](https://cdn.akamai.steamstatic.com/steam/apps/330570/ss_60e075b4b9a76e7b78779062ab8011a9ced2f141.jpg)
-![](https://cdn.akamai.steamstatic.com/steam/apps/330570/ss_70b545fc5a017037f5a1f69616a946d760b1c778.jpg)
+![](./media/NOCT/ss_1.jpg)
+![](./media/NOCT/ss_2.jpg)
+![](./media/NOCT/ss_3.jpg)
+![](./media/NOCT/ss_4.jpg)
+![](./media/NOCT/ss_5.jpg)
 
 </details>
 
 <details>
 <summary>Hotline Miami - https://store.steampowered.com/app/219150/</summary>
 
-![](https://cdn.akamai.steamstatic.com/steam/apps/219150/ss_263387d83df0626c58a484baa8f78f9394074b76.jpg)
-![](https://cdn.akamai.steamstatic.com/steam/apps/219150/ss_bdf28f59652e53e725d96d94cdc8db97fc277cf2.jpg)
-![](https://cdn.akamai.steamstatic.com/steam/apps/219150/ss_a868b45895c06a2e45a6f6a8646c4574b0157525.jpg)
-![](https://cdn.akamai.steamstatic.com/steam/apps/219150/ss_a2aa276b25345368d00338cfe54ebbcfa0c60168.jpg)
-![](https://cdn.akamai.steamstatic.com/steam/apps/219150/ss_75386edf15a48d844dc28ffdc61eb5c458d68533.jpg)
+![](./media/Hotline_Miami_1/ss_1.jpg)
+![](./media/Hotline_Miami_1/ss_2.jpg)
+![](./media/Hotline_Miami_1/ss_3.jpg)
+![](./media/Hotline_Miami_1/ss_4.jpg)
+![](./media/Hotline_Miami_1/ss_5.jpg)
 
 </details>
 
 <details>
 <summary>Hotline Miami 2 - https://store.steampowered.com/app/274170/</summary>
 
-![](https://cdn.akamai.steamstatic.com/steam/apps/274170/ss_b2a76d2c605c7e54bf3e2ba43f835698d0bd6441.jpg)
-![](https://cdn.akamai.steamstatic.com/steam/apps/274170/ss_7d408d8713d6bf44bca41098f3ac4b41cc7ea024.jpg)
-![](https://cdn.akamai.steamstatic.com/steam/apps/274170/ss_f32629d89b262b2913134483042a6ca78e2dbe83.jpg)
-![](https://cdn.akamai.steamstatic.com/steam/apps/274170/ss_2b7b82c0b00ec5b8db41eef69af943304141392a.jpg)
-![](https://cdn.akamai.steamstatic.com/steam/apps/274170/ss_d17f2f2e7b8cb2b58142e4eb58204a34b54073ee.jpg)
+![](./media/Hotline_Miami_2/ss_1.jpg)
+![](./media/Hotline_Miami_2/ss_2.jpg)
+![](./media/Hotline_Miami_2/ss_3.jpg)
+![](./media/Hotline_Miami_2/ss_4.jpg)
+![](./media/Hotline_Miami_2/ss_5.jpg)
 
 </details>
 
