@@ -1,8 +1,3 @@
-# Awesome-TrueTopDown
-A curated list of awesome "true" top down games
-
----
-
 <details>
 <summary>SURV - <a href="https://store.steampowered.com/app/670620/">https://store.steampowered.com/app/670620/</a></summary>
 
@@ -115,6 +110,3 @@ A curated list of awesome "true" top down games
 <img src="./media/Galaga-1981/ss_3.gif" />
 
 </details>
-
----
-# Thanks
