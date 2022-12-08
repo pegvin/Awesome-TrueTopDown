@@ -55,7 +55,14 @@ A curated list of awesome "true" top down games
 <details>
 <summary>Raiden Series - https://en.wikipedia.org/wiki/Raiden_(series)</summary>
 
-[Raiden 2](https://user-images.githubusercontent.com/75035219/206222719-76a6d33a-bea3-4e71-9329-8d1e7be29cd3.mp4)
+https://user-images.githubusercontent.com/75035219/206222719-76a6d33a-bea3-4e71-9329-8d1e7be29cd3.mp4
+
+</details>
+
+<details>
+<summary>1942 (1984) - https://en.wikipedia.org/wiki/1942_(video_game)</summary>
+
+https://user-images.githubusercontent.com/75035219/206387966-bc31329a-49b4-401a-9f65-0d8d55dc40c0.webm
 
 </details>
 
