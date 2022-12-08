@@ -4,7 +4,7 @@ A curated list of awesome "true" top down games
 ---
 
 <details>
-<summary>SURV - https://store.steampowered.com/app/670620/</summary>
+<summary>SURV - <a href="https://store.steampowered.com/app/670620/">https://store.steampowered.com/app/670620/</a></summary>
 
 <img src="./media/SURV/ss_1.jpg" />
 <img src="./media/SURV/ss_2.jpg" />
@@ -15,7 +15,7 @@ A curated list of awesome "true" top down games
 </details>
 
 <details>
-<summary>Noct - https://store.steampowered.com/app/330570/</summary>
+<summary>Noct - <a href="https://store.steampowered.com/app/330570/">https://store.steampowered.com/app/330570/</a></summary>
 
 <img src="./media/NOCT/ss_1.jpg" />
 <img src="./media/NOCT/ss_2.jpg" />
@@ -26,7 +26,7 @@ A curated list of awesome "true" top down games
 </details>
 
 <details>
-<summary>Hotline Miami - https://store.steampowered.com/app/219150/</summary>
+<summary>Hotline Miami - <a href="https://store.steampowered.com/app/219150/">https://store.steampowered.com/app/219150/</a></summary>
 
 <img src="./media/Hotline_Miami_1/ss_1.jpg" />
 <img src="./media/Hotline_Miami_1/ss_2.jpg" />
@@ -37,7 +37,7 @@ A curated list of awesome "true" top down games
 </details>
 
 <details>
-<summary>Hotline Miami 2 - https://store.steampowered.com/app/274170/</summary>
+<summary>Hotline Miami 2 - <a href="https://store.steampowered.com/app/274170/">https://store.steampowered.com/app/274170/</a></summary>
 
 <img src="./media/Hotline_Miami_2/ss_1.jpg" />
 <img src="./media/Hotline_Miami_2/ss_2.jpg" />
@@ -48,7 +48,7 @@ A curated list of awesome "true" top down games
 </details>
 
 <details>
-<summary>Super Arcade Racing - https://store.steampowered.com/app/1103770/</summary>
+<summary>Super Arcade Racing - <a href="https://store.steampowered.com/app/1103770/">https://store.steampowered.com/app/1103770/</a></summary>
 
 <img src="./media/Super_Arcade_Racing/ss_1.jpg" />
 <img src="./media/Super_Arcade_Racing/ss_2.jpg" />
@@ -59,7 +59,7 @@ A curated list of awesome "true" top down games
 </details>
 
 <details>
-<summary>Over 9000 Zombies - https://store.steampowered.com/app/273500/</summary>
+<summary>Over 9000 Zombies - <a href="https://store.steampowered.com/app/273500/">https://store.steampowered.com/app/273500/</a></summary>
 
 <img src="./media/Super_Arcade_Racing/ss_1.jpg" />
 <img src="./media/Super_Arcade_Racing/ss_2.jpg" />
@@ -70,7 +70,7 @@ A curated list of awesome "true" top down games
 </details>
 
 <details>
-<summary>Close Combat Series (Except Some Games) - https://store.steampowered.com/bundle/14953/</summary>
+<summary>Close Combat Series (Except Some Games) - <a href="https://store.steampowered.com/bundle/14953/">https://store.steampowered.com/bundle/14953/</a></summary>
 
 <img src="./media/Close_Combat_Series/ss_1.jpg" />
 <img src="./media/Close_Combat_Series/ss_2.jpg" />
@@ -81,7 +81,7 @@ A curated list of awesome "true" top down games
 </details>
 
 <details>
-<summary>Raiden Series - https://en.wikipedia.org/wiki/Raiden_(series)</summary>
+<summary>Raiden Series - <a href="https://en.wikipedia.org/wiki/Raiden_(series)">https://en.wikipedia.org/wiki/Raiden_(series)</a></summary>
 
 <img src="./media/Raiden_Series/ss_1.jpg" />
 <img src="./media/Raiden_Series/ss_2.jpg" />
@@ -90,7 +90,7 @@ A curated list of awesome "true" top down games
 </details>
 
 <details>
-<summary>1942 (1984) - https://en.wikipedia.org/wiki/1942_(video_game)</summary>
+<summary>1942 (1984) - <a href="https://en.wikipedia.org/wiki/1942_(video_game)">https://en.wikipedia.org/wiki/1942_(video_game)</a></summary>
 
 <img src="./media/1942/ss_1.png" />
 <img src="./media/1942/ss_2.png" />
@@ -99,7 +99,7 @@ A curated list of awesome "true" top down games
 </details>
 
 <details>
-<summary>1941: Counter Attack (1990) - https://en.wikipedia.org/wiki/1941:_Counter_Attack</summary>
+<summary>1941: Counter Attack (1990) - <a href="https://en.wikipedia.org/wiki/1941:_Counter_Attack">https://en.wikipedia.org/wiki/1941:_Counter_Attack</a></summary>
 
 <img src="./media/1941-Counter_Attack/ss_1.png" />
 <img src="./media/1941-Counter_Attack/ss_2.png" />
@@ -108,7 +108,7 @@ A curated list of awesome "true" top down games
 </details>
 
 <details>
-<summary>Galaga (1981) - https://en.wikipedia.org/wiki/Galaga</summary>
+<summary>Galaga (1981) - <a href="https://en.wikipedia.org/wiki/Galaga">https://en.wikipedia.org/wiki/Galaga</a></summary>
 
 <img src="./media/Galaga-1981/ss_1.jpg" />
 <img src="./media/Galaga-1981/ss_2.jpg" />
