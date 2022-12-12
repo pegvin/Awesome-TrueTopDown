@@ -1,4 +1,102 @@
 <details>
+<summary>Darkwood - <a href="https://store.steampowered.com/app/274520/">https://store.steampowered.com/app/274520/</a></summary>
+
+<img src="./media/Darkwood/ss_1.jpg" />
+<img src="./media/Darkwood/ss_2.jpg" />
+<img src="./media/Darkwood/ss_3.jpg" />
+<img src="./media/Darkwood/ss_4.jpg" />
+<img src="./media/Darkwood/ss_5.jpg" />
+<img src="./media/Darkwood/ss_6.jpg" />
+<img src="./media/Darkwood/ss_7.jpg" />
+
+</details>
+
+<details>
+<summary>Door Kickers 1 - <a href="https://store.steampowered.com/app/248610/">https://store.steampowered.com/app/248610/</a></summary>
+
+<img src="./media/Door_Kickers_1/ss_1.jpg" />
+<img src="./media/Door_Kickers_1/ss_2.jpg" />
+<img src="./media/Door_Kickers_1/ss_3.jpg" />
+<img src="./media/Door_Kickers_1/ss_4.jpg" />
+<img src="./media/Door_Kickers_1/ss_5.jpg" />
+<img src="./media/Door_Kickers_1/ss_6.jpg" />
+<img src="./media/Door_Kickers_1/ss_7.jpg" />
+
+</details>
+
+<details>
+<summary>Intravenous - <a href="https://store.steampowered.com/app/1486630/">https://store.steampowered.com/app/1486630/</a></summary>
+
+<img src="./media/Intravenous/ss_1.jpg" />
+<img src="./media/Intravenous/ss_2.jpg" />
+<img src="./media/Intravenous/ss_3.jpg" />
+<img src="./media/Intravenous/ss_4.jpg" />
+<img src="./media/Intravenous/ss_5.jpg" />
+<img src="./media/Intravenous/ss_6.jpg" />
+<img src="./media/Intravenous/ss_7.jpg" />
+<img src="./media/Intravenous/ss_8.jpg" />
+
+</details>
+
+<details>
+<summary>Splatter - Zombiecalypse Now - <a href="https://store.steampowered.com/app/281920/">https://store.steampowered.com/app/281920/</a></summary>
+
+<img src="./media/Splatter-Zombiecalypse_Now/ss_1.jpg" />
+<img src="./media/Splatter-Zombiecalypse_Now/ss_2.jpg" />
+<img src="./media/Splatter-Zombiecalypse_Now/ss_3.jpg" />
+<img src="./media/Splatter-Zombiecalypse_Now/ss_4.jpg" />
+<img src="./media/Splatter-Zombiecalypse_Now/ss_5.jpg" />
+<img src="./media/Splatter-Zombiecalypse_Now/ss_6.jpg" />
+<img src="./media/Splatter-Zombiecalypse_Now/ss_7.jpg" />
+
+</details>
+
+<details>
+<summary>Heat Guardian: Re-Frozen Edition - <a href="https://store.steampowered.com/app/595260/">https://store.steampowered.com/app/595260/</a></summary>
+
+<img src="./media/Heat_Guardian_Re-Frozen-Edition/ss_1.jpg" />
+<img src="./media/Heat_Guardian_Re-Frozen-Edition/ss_2.jpg" />
+<img src="./media/Heat_Guardian_Re-Frozen-Edition/ss_3.jpg" />
+<img src="./media/Heat_Guardian_Re-Frozen-Edition/ss_4.jpg" />
+<img src="./media/Heat_Guardian_Re-Frozen-Edition/ss_5.jpg" />
+<img src="./media/Heat_Guardian_Re-Frozen-Edition/ss_6.jpg" />
+<img src="./media/Heat_Guardian_Re-Frozen-Edition/ss_7.jpg" />
+
+</details>
+
+<details>
+<summary>Police Stories - <a href="https://store.steampowered.com/app/539470/">https://store.steampowered.com/app/539470/</a></summary>
+
+<img src="./media/Police_Stories/ss_1.jpg" />
+<img src="./media/Police_Stories/ss_2.jpg" />
+<img src="./media/Police_Stories/ss_3.jpg" />
+<img src="./media/Police_Stories/ss_4.jpg" />
+<img src="./media/Police_Stories/ss_5.jpg" />
+<img src="./media/Police_Stories/ss_6.jpg" />
+<img src="./media/Police_Stories/ss_7.jpg" />
+
+</details>
+
+<details>
+<summary>Monaco: What's Yours Is Mine - <a href="https://store.steampowered.com/app/113020/">https://store.steampowered.com/app/113020/</a></summary>
+
+<img src="./media/Monaco_Whats_Yours_Is_Mine/ss_1.jpg" />
+<img src="./media/Monaco_Whats_Yours_Is_Mine/ss_2.jpg" />
+<img src="./media/Monaco_Whats_Yours_Is_Mine/ss_3.jpg" />
+
+</details>
+
+<details>
+<summary>Teleglitch: Die More Edition - <a href="https://store.steampowered.com/app/234390/">https://store.steampowered.com/app/234390/</a></summary>
+
+<img src="./media/Teleglitch_Die_More_Edition/ss_1.jpg" />
+<img src="./media/Teleglitch_Die_More_Edition/ss_2.jpg" />
+<img src="./media/Teleglitch_Die_More_Edition/ss_3.jpg" />
+<img src="./media/Teleglitch_Die_More_Edition/ss_4.jpg" />
+
+</details>
+
+<details>
 <summary>SURV - <a href="https://store.steampowered.com/app/670620/">https://store.steampowered.com/app/670620/</a></summary>
 
 <img src="./media/SURV/ss_1.jpg" />
@@ -89,7 +187,6 @@
 
 <img src="./media/1942/ss_1.png" />
 <img src="./media/1942/ss_2.png" />
-<img src="./media/1942/ss_3.png" />
 
 </details>
 
