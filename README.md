@@ -1,4 +1,40 @@
 <details>
+<summary>Grand Theft Auto 1 - <a href="https://store.steampowered.com/app/12170/">https://store.steampowered.com/app/12170/</a></summary>
+
+<img src="./media/GTA_1/ss_1.jpg" />
+<img src="./media/GTA_1/ss_2.jpg" />
+<img src="./media/GTA_1/ss_3.jpg" />
+
+</details>
+
+<details>
+<summary>Grand Theft Auto 2 - <a href="https://store.steampowered.com/app/12180/">https://store.steampowered.com/app/12180/</a></summary>
+
+<img src="./media/GTA_2/ss_1.jpg" />
+<img src="./media/GTA_2/ss_2.jpg" />
+<img src="./media/GTA_2/ss_3.jpg" />
+<img src="./media/GTA_2/ss_4.jpg" />
+<img src="./media/GTA_2/ss_5.jpg" />
+<img src="./media/GTA_2/ss_6.jpg" />
+<img src="./media/GTA_2/ss_7.jpg" />
+<img src="./media/GTA_2/ss_8.jpg" />
+
+</details>
+
+<details>
+<summary>Mr. Shifty - <a href="https://store.steampowered.com/app/489140/">https://store.steampowered.com/app/489140/</a></summary>
+
+<img src="./media/Mr_Shifty/ss_1.jpg" />
+<img src="./media/Mr_Shifty/ss_2.jpg" />
+<img src="./media/Mr_Shifty/ss_3.jpg" />
+<img src="./media/Mr_Shifty/ss_4.jpg" />
+<img src="./media/Mr_Shifty/ss_5.jpg" />
+<img src="./media/Mr_Shifty/ss_6.jpg" />
+
+</details>
+
+<details>
+
 <summary>Darkwood - <a href="https://store.steampowered.com/app/274520/">https://store.steampowered.com/app/274520/</a></summary>
 
 <img src="./media/Darkwood/ss_1.jpg" />
